@@ -352,3 +352,4 @@ dependencies:
   - pip:
       - jupyterlab==4.0.10
       - pip==23.3.2
+      - tensorflow==2.15.0.post1
